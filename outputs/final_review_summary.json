@@ -1,0 +1,13 @@
+{
+  "n": 30,
+  "manual_correct": 10,
+  "manual_accuracy": 0.333,
+  "error_category_counts": {
+    "correct": 10,
+    "wrong_attribute": 6,
+    "abstention": 4,
+    "false_positive_existence": 5,
+    "wrong_location": 4,
+    "false_negative_existence": 1
+  }
+}

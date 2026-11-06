@@ -1,0 +1,18 @@
+{
+  "overall": {
+    "n": 30,
+    "correct": 12,
+    "accuracy": 0.4
+  },
+  "yes_no": {
+    "n": 13,
+    "correct": 7,
+    "accuracy": 0.538
+  },
+  "open_ended": {
+    "n": 17,
+    "correct": 5,
+    "accuracy": 0.294
+  },
+  "unknown_polarity": 0
+}
