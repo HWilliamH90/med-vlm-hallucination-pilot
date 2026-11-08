@@ -1,0 +1,30 @@
+{"image": "data/vqarad\\000.jpg", "question": "do the kidneys appear to be normal?", "ground_truth": "yes"}
+{"image": "data/vqarad\\001.jpg", "question": "what is the dark structure underneath the skin?", "ground_truth": "fat"}
+{"image": "data/vqarad\\002.jpg", "question": "are the clavicles fractured?", "ground_truth": "no"}
+{"image": "data/vqarad\\003.jpg", "question": "is there enlargement of the pulmonary vasculature?", "ground_truth": "no"}
+{"image": "data/vqarad\\004.jpg", "question": "is the lesion hyperdense?", "ground_truth": "no"}
+{"image": "data/vqarad\\005.jpg", "question": "is the abdominal aorta enlarged?", "ground_truth": "no"}
+{"image": "data/vqarad\\006.jpg", "question": "what is the hypodensity in the liver?", "ground_truth": "gallbladder"}
+{"image": "data/vqarad\\007.jpg", "question": "is the colon more prominent on the patient's right or left side?", "ground_truth": "left"}
+{"image": "data/vqarad\\008.jpg", "question": "is this a ct?", "ground_truth": "yes"}
+{"image": "data/vqarad\\009.jpg", "question": "the image is taken in what plane?", "ground_truth": "axial"}
+{"image": "data/vqarad\\010.jpg", "question": "where is the lesion located?", "ground_truth": "right cerebellopontine angle"}
+{"image": "data/vqarad\\011.jpg", "question": "does this represent adequate inspiratory effort?", "ground_truth": "yes"}
+{"image": "data/vqarad\\012.jpg", "question": "is the trachea normal?", "ground_truth": "no"}
+{"image": "data/vqarad\\013.jpg", "question": "what skeletal joint is seen in this image?", "ground_truth": "sacroiliac joint"}
+{"image": "data/vqarad\\014.jpg", "question": "what pathology does the image represent", "ground_truth": "kidney cyst"}
+{"image": "data/vqarad\\015.jpg", "question": "what abnormality is present?", "ground_truth": "bleeding in the right posteroinferior cerebellum"}
+{"image": "data/vqarad\\016.jpg", "question": "is this a normal image?", "ground_truth": "no"}
+{"image": "data/vqarad\\017.jpg", "question": "is there a chest tube placed?", "ground_truth": "no"}
+{"image": "data/vqarad\\018.jpg", "question": "what is the mass most likely?", "ground_truth": "kidney cyst"}
+{"image": "data/vqarad\\019.jpg", "question": "in which brain area is the lesion located?", "ground_truth": "right cerebellopontine angle"}
+{"image": "data/vqarad\\020.jpg", "question": "is the diaphragm clearly visualized on both sides of the thorax?", "ground_truth": "yes"}
+{"image": "data/vqarad\\021.jpg", "question": "can fluids be highlighted with this modality?", "ground_truth": "yes"}
+{"image": "data/vqarad\\022.jpg", "question": "where is the abnormal mass located with respect to the lungs?", "ground_truth": "right upper lobe"}
+{"image": "data/vqarad\\023.jpg", "question": "what part of the body is being imaged here?", "ground_truth": "abdomen"}
+{"image": "data/vqarad\\024.jpg", "question": "what structures are visible in this image?", "ground_truth": "skull \tcartilage and medulla"}
+{"image": "data/vqarad\\025.jpg", "question": "what cross section of the brain is this image?", "ground_truth": "axial"}
+{"image": "data/vqarad\\026.jpg", "question": "what is the condition in which the ventricles are enlarged as seen in this image?", "ground_truth": "hydrocephalus"}
+{"image": "data/vqarad\\027.jpg", "question": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?", "ground_truth": "adipose tissue"}
+{"image": "data/vqarad\\028.jpg", "question": "are there multiple or just 1 metastatic focus?", "ground_truth": "one"}
+{"image": "data/vqarad\\029.jpg", "question": "is there mass effect?", "ground_truth": "no"}

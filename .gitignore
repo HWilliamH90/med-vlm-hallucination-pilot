@@ -1,0 +1,25 @@
+# --- Logs and temporary diagnostics ---
+*.log
+outputs/*.err
+outputs/dl_attempt.out
+outputs/api_files.json
+outputs/ds_tmp.json
+outputs/ms_check.json
+outputs/test_range.bin
+
+# --- Raw dataset images (regenerated via scripts/04_prepare_vqarad.py) ---
+data/vqarad/
+
+# --- Python artifacts ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS / editor noise ---
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# --- Private correspondence (never publish) ---
+progress_email_draft.md
