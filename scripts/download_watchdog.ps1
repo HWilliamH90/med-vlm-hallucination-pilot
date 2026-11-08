@@ -4,7 +4,6 @@
 # existing partial files, so progress accumulates until the model is complete.
 $ErrorActionPreference = "Continue"
 
-$wd = "C:\Users\asus\Doubao\chats\2026-11-04\new-chat\med_vlm_work"
 $python = "D:\Anaconda\envs\medvlm\python.exe"
 $dlScript = Join-Path $wd "scripts\00b_download_model.py"
 $watchLog = Join-Path $wd "outputs\watchdog.log"
